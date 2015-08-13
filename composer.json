@@ -1,0 +1,16 @@
+{
+    "name": "dehartmatt/wpbootstrap",
+    "authors": [
+        {
+            "name": "Matt DeHart",
+            "email": "dehart.matt@gmail.com"
+        }
+    ],
+    "require": {
+        "mobiledetect/mobiledetectlib": "^2.8"
+    },
+    "config": 
+    	{
+    		"vendor-dir": "library/build/php"
+    	}
+}
