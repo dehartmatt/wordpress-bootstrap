@@ -21,3 +21,7 @@ $RECYCLE.BIN/
 
 # Ignore these so they're not stored in source control
 node_modules
+vendor
+library/build/bower
+library/build/vendor
+library/build/php
